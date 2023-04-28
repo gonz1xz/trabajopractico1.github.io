@@ -23,6 +23,16 @@ table,th,td,tr{
 
 .encabezado{
     background-color: #d9ae79;
+    align-items: center;
+    text-align: center;
+}
+
+.encabezado h1{
+    font-size: 65px;
+}
+
+.encabezado h2{
+    font-size: 40px;
 }
 
 
@@ -141,6 +151,6 @@ input:placeholder-shown{
 }
 
 .filaprincipal{
-    background-color: rgb(163, 163, 163);
+    background-color: rgb(145, 141, 141);
     color: white;
 }
